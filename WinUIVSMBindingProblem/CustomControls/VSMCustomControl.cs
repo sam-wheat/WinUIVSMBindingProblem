@@ -18,8 +18,8 @@ using System.Windows.Input;
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
 
-namespace WinUIVSMBindingProblem;
-public sealed class VSMCustomControl : Control
+namespace WinUIVSMBindingProblem.CustomControls;
+public sealed partial class VSMCustomControl : Control
 {
 
     public ICommand ButtonCommand
