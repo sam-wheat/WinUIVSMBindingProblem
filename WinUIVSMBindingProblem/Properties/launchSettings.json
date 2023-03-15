@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIVSMBindingProblem (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIVSMBindingProblem (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
